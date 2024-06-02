@@ -1,0 +1,54 @@
+/* Este es un comentario en CSS */
+/*LUNA PEREZ MARIANA*/
+/*DAW  FECHA:20/03/24 */
+/* A continuacion le aplicamos CSS a la actividad_(ACT8.HTML).Desde un archivo CSS.(ACT8.CSS*)/
+
+body{
+background-color:#B00E0E;
+}
+h1{
+font-family:cambria;
+color:white;
+text-align:center;
+}
+img src{
+height:15%
+width:15%;
+}
+h2{
+font-family:garamond;
+color:white;
+}
+ol{
+color:white;
+font-family:garamond;
+}
+table{
+
+aling:left;
+width:20%;
+height:200px;
+text-align:center;
+background-color:#EE5050;
+border-spacing:1;
+border-color:black;
+font-size:20px;
+border-style:solid;
+border:14px;
+}
+.derecha{align:right;}
+.centro{align:center;}
+.izquierda{align:left;}
+}
+h3{
+font-family:courier;
+color:white;
+}
+
+h4{
+color:pink;
+font-family:calibri;
+text-align:left;
+}
+</body>
+</html>
